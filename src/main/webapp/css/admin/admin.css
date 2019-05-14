@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+div.head{ width:100%; float:left; height:110px; background-image:url(../images/admin_header.jpg); background-position:left top; background-repeat:no-repeat;}
+div.content{width:100%; float:left;}
+div.content_left{width:100%; float:left; border-right:1px solid #010511; height:450px; background-image:url(../images/left_menu_bg.jpg); background-position:right top; background-repeat:repeat-y;}
+div.content_left ul{}
+div.content_left ul li{ line-height:40px; color:#FFF; font-size:14px; font-weight:900; text-align:center; border-bottom:1px solid #76c7fe;}
+div.content_left ul li a:link{ color:#FFF; font-size:14px; border:0px; display:block;}
+div.content_left ul li a:visited{ color:#FFF; font-size:14px; border:0px; display:block;}
+div.content_left ul li a:hover{ color:#FFF; font-size:14px; border:0px; display:block;}
+div.content_left ul li a:active{ color:#000000; font-size:14px; border:0px; display:block; border-bottom:2px solid #ffffff; border-top:2px solid #ffffff; background-color:#FFF;}
+div.content_right{width:100%; float:left; height:450px; margin-top:35px}
+div.content_right_welcome{ width:100%; float:left; height:50px; text-align:right; font-size:15px; font-weight:bold; line-height:50px; vertical-align:middle;}
+div.content_right_content{ float:left; width:100%; border-collapse:collapse;}
+div.content_right_frame{ width:80%; margin-left:auto; margin-right:auto;}
+div.content_right_content_search{ float:left; width:100%; margin-top:8px;}
+div.content_right_content_button{ float:left; width:100%; margin-top:8px;}
+div.content_right_content_list{ float:left; width:100%; margin-top:8px;}
+div.content_right_content_page{ float:left; width:100%; margin-top:8px;}
+.list_table{ width:100%; margin-left:auto; margin-right:auto; border-left:1px solid #000000; border-top:1px solid #000000;}
+.list_table td{ line-height:22px; font-size:13px; text-align:left; border-right:1px solid #000000; border-bottom:1px solid #000000; padding:3px;}
+.list_table th{line-height:25px; font-size:14px; border-right:1px solid #000000; border-bottom:1px solid #000000; padding-left:3px;}
+/*CSS sabrosus style pagination*/
+
+DIV.sabrosus {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; MARGIN: 3px; PADDING-TOP: 3px; TEXT-ALIGN: center
+}
+DIV.sabrosus A {
+	BORDER-RIGHT: #9aafe5 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #9aafe5 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; BORDER-LEFT: #9aafe5 1px solid; COLOR: #2e6ab1; MARGIN-RIGHT: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #9aafe5 1px solid; TEXT-DECORATION: none
+}
+DIV.sabrosus A:hover {
+	BORDER-RIGHT: #2b66a5 1px solid; BORDER-TOP: #2b66a5 1px solid; BORDER-LEFT: #2b66a5 1px solid; COLOR: #000; BORDER-BOTTOM: #2b66a5 1px solid; BACKGROUND-COLOR: lightyellow
+}
+DIV.pagination A:active {
+	BORDER-RIGHT: #2b66a5 1px solid; BORDER-TOP: #2b66a5 1px solid; BORDER-LEFT: #2b66a5 1px solid; COLOR: #000; BORDER-BOTTOM: #2b66a5 1px solid; BACKGROUND-COLOR: lightyellow
+}
+DIV.sabrosus SPAN.current {
+	BORDER-RIGHT: navy 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: navy 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 2px; BORDER-LEFT: navy 1px solid; COLOR: #fff; MARGIN-RIGHT: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: navy 1px solid; BACKGROUND-COLOR: #2e6ab1
+}
+DIV.sabrosus SPAN.disabled {
+	BORDER-RIGHT: #929292 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #929292 1px solid; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; BORDER-LEFT: #929292 1px solid; COLOR: #929292; MARGIN-RIGHT: 2px; PADDING-TOP: 2px; BORDER-BOTTOM: #929292 1px solid
+}
+fieldset {
+    padding:10px;
+    width:100%px;
+    color:#333; 
+    border:#000000 solid 1px;
+} 
+legend {
+    color:#000000;
+    font-weight:800; 
+    background:#fff;
+	font-size:14px;
+} 
+table{ width:100%; border-collapse:collapse;}
+.button_center{ text-align:center}
+DIV.guide_center {
+	FONT-SIZE: 16px; LEFT: 50%; MARGIN: -222px 0px 0px -406px; WIDTH: 812px; POSITION: absolute; TOP: 50%; HEIGHT: 445px; TEXT-ALIGN: center; background-image:url(../images/admin_pane.jpg); background-position:left top; background-repeat:no-repeat;}
+div.guide_input{ float:left; width:100%}
+.guide_input_table{ width:100%; border-collapse:collapse;}
+.guide_input_table td{ border:0px}
+.guide_input_table1{ border-collapse:collapse; width:100%; border:0px;}
+.guide_input_table1{ font-size:12px; text-align:left; border:0px}
+div.bottom{ float:left; width:100%; height:62px; border-top:4px solid #254d80; background-image:url(../images/bottom_bg.jpg); background-position:left top; background-repeat:repeat-x;}
+div.bottom p{ width:100%; line-height:60px; vertical-align:middle; text-align:center; font-weight:900; color:#2e2e2e}
+

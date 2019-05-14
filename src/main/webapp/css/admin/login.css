@@ -1,0 +1,216 @@
+/* CSS Document by Shaorui */
+* {
+    margin:0;
+    padding:0;
+}
+html {
+    width:100%;
+    height:100%;
+    overflow-x:hidden;
+}
+body {
+    height:100%;
+    margin:0;
+    padding:0;
+    font-size:10pt;
+    background:#9999cc;
+    color:#333;
+    overflow:auto;
+    overflow-x:hidden;
+}
+body#login {
+    background:#0065AF;
+}
+body#page {
+    padding:20px;
+    height:auto;
+    border-top:60px solid #0065AF;
+}
+a {
+    color:#0D324F;
+}
+input {
+    font-size:24px;
+    background:#F4F4F4;
+    border:1px solid #A5ACB2;
+    height:30px;
+    overflow:hidden;
+}
+input.bt {
+    height:40px;
+    padding:4px;
+    border:3px double #CCC;
+    border-right-color:#999;
+    border-bottom-color:#999;
+
+}
+input.checkbox {
+    border:none;
+    height:auto;
+}
+textarea,select {
+    background:#F4F4F4;
+    border:1px solid #A5ACB2;
+}
+table {
+    margin:8px auto;
+    border-collapse:collapse;
+}
+th,td {
+    padding:6px;
+    vertical-align:middle;
+    border:1px dotted #DDD;
+    border-collapse:collapse;
+}
+th {
+    background:#DFDFDF;
+}
+td {
+    background:#F1F1F1;
+}
+h1 {
+    position:absolute;
+    width:100%;
+    height:33px;
+    overflow:hidden;
+    padding:25px 0 0 20px;
+    color:#FFF;
+    font-size:12pt;
+    top:0;
+    left:0;
+    background:#0065AF;
+    border-bottom:3px solid #FFF;
+}
+h2 {
+    font-size:12px;
+    padding:8px;
+    color:#333;
+}
+p {
+    margin:10px auto;
+}
+/**/
+#loginForm {
+    width:400px;
+    height:300px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin:-150px 0 0 -200px;
+    background:#FFF;
+    border:3px solid #999;
+}
+#loginForm h3 {
+    background:#000;
+    color:#FFF;
+    margin:0 0 30px 0;
+    padding:14px 0 8px 20px;
+}
+#loginForm label {
+    display:block;
+    padding:12px 40px;
+}
+#loginForm label span {
+    display:block;
+    position:absolute;
+    padding:8px 0 0 0;
+}
+#loginForm label input {
+    width:200px;
+    margin:0 0 0 70px;
+}
+#loginForm label#submit {
+    padding-left:110px;
+}
+#loginForm label input.bt {
+    width:80px;
+    margin:0;
+}
+#registerForm {
+    width:800px;
+    margin:0 auto;
+}
+#siteCopyRight {
+    display:block;
+    position:absolute;
+    width:200px;
+    top:50%;
+    left:50%;
+    margin:160px 0 0 -100px;
+    text-align:center;
+    color:#999;
+}
+#globalNav {
+    position:absolute;
+    top:32px;
+    right:0;
+}
+#globalNav li {
+    display:inline;
+}
+#globalNav li a{
+    display:block;
+    width:92px;
+    height:21px;
+    padding:8px 0 0 0;
+    color:#FFF;
+    font-weight:bold;
+    text-decoration:none;
+    text-align:center;
+    float:right;
+}
+#globalNav li a:hover,#globalNav li.select a{
+    color:#000;
+}
+#userInfo {
+    width:100%;
+    position:absolute;
+    top:10px;
+    right:20px;
+    text-align:right;
+    color:#FFF;
+}
+#searchForm {
+    border:1px dotted #CCC;
+    margin:8px;
+    padding:8px;
+}
+#searchForm input {
+    height:20px;
+    font-size:12px;
+    padding:0;
+}
+#pageFlip {
+    margin:3px auto;
+    padding:6px;
+    text-align:center;
+    background:#EFEFEF;
+    font-weight:bold;
+    float:none;
+    clear:both;
+}
+/**/
+.blockList li {
+    list-style:none;
+    display:inline;
+}
+.blockList li a {
+    display:block;
+    width:200px;
+    border:1px solid #CCC;
+    background:#EFEFEF;
+    margin:10px;
+    padding:18px;
+    float:left;
+    text-align:center;
+}
+.blockList li a:hover {
+    background:#CCC;
+}
+.warp{
+    text-align: center;
+}
+.type{
+    margin: 0 auto;
+
+}

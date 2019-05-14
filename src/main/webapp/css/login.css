@@ -1,0 +1,124 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+body, html {
+    width: 100%;
+    height: 100%;
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+.load {
+    background: url(../images/bg.jpg) no-repeat;
+    background-size: cover;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/bg.jpg',sizingMethod='scale');
+    height: 692px;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    padding-top: 80px;
+}
+.loadcon {
+    width: 554px;
+    /* height: 412px; */
+    margin: 0 auto;
+    padding: 64px 144px;
+    padding-bottom: 110px;
+    border-radius: 10px;
+    background: #fff url(../images/topbg.png) no-repeat top center;
+    position: relative;
+}
+.mm70 {
+    margin-bottom: 70px;
+}
+.mm20 {
+    margin-bottom: 20px;
+}
+.bk-go-index {
+    position: absolute;
+    bottom: 14px;
+    right: 20px;
+}
+.ovel {
+    overflow: hidden;
+}
+.pl123 {
+    padding-left: 123px;
+}
+.lin30 {
+    line-height: 30px;
+}
+
+.mr25 {
+    margin-right: 25px;
+}
+.fl {
+    float: left;
+}
+.control-label {
+    width: 130px;
+    text-align: right;
+}
+.por {
+    position: relative;
+}
+.form-control-user {
+    width: 350px;
+    padding-left: 6px;
+}
+.form-control {
+    display: block;
+    padding-left: 6px;
+    width: 205px;
+    height: 32px;
+    line-height: 32px;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    float: left;
+}
+
+input {
+    line-height: normal;
+}
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+.btn-default-load {
+    padding: 15px 0px;
+    font-size: 20px;
+    color: white;
+    background: #f36948;
+    width: 211px;
+    border: 0;
+    width: 140px;
+}
+.btn {
+    display: inline-block;
+    padding: 4px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    margin-right: 4px;
+}
