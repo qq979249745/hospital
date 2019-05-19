@@ -7,105 +7,102 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31085ab4-d22d-4b53-8f35-bce9fc2c5147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsp_api.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/NumSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/Pages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/bean/WorkDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/AdminDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/DoctorDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/NumSourceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/OfficeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/PatientDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/RecodeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/RoomDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/WorkDayDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/dao/impl/IAdminimpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/filter/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/QueryDoctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/QueryNumSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/SendMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/DoctorInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/DoctorManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/OfficeManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/RoomManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/ScheduleManage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/DoctorSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/OfficeSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/ShowWorkday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/DBUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/MyMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/util/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/doctor.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/doctorManage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/include/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/include/headtag.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/include/menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/office.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/scheduleManage.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/confirmOrder.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin/head.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin/left.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctorInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/topbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/include/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/include/headtag.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/include/menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/mysql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/officeInfo.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/orderOffice.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/laydate.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/need/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/dahong/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/dahong/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/danlan/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/danlan/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/molv/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/molv/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/qianhuang/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/qianhuang/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/yahui/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/yahui/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/yalan/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/skins/yalan/laydate.css" afterDir="false" />
+    <list default="true" id="31085ab4-d22d-4b53-8f35-bce9fc2c5147" name="Default Changelist" comment="完善系统">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/bean/Apply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/bean/Integrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/bean/Recode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/dao/ApplyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/dao/IntegrityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/FindPwd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/Logout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/ModifyPwd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/QueryPatient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/ApplyManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/OfficeDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/admin/PatientManage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/doctor/ApplyWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/doctor/MyApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/doctor/MyInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/doctor/MyWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/doctor/PatientList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/Integrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java/servlet/patient/OrderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/applyManage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/modifyPwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/officeDetail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin/patientManage.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/include/head.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/include/headtag.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/include/menu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/modifyPwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/myApply.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/myInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/myWork.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/doctor/patientList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/findPwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/help.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bj11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/docpic/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/img_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/img_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/img_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/不孕不育科.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/中医科.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/口腔科.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/眼科.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/integrity.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/modifyPwd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/mysql-之前的版本.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/orderDoctor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/orderList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/scripts/echarts.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -130,86 +127,20 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/java/util/MyMail.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-567">
-              <caret line="12" column="60" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="60" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="171">
+                <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java/util/DBUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/applyManage.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/doctorInfo.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3726">
-              <caret line="138" column="159" selection-start-line="138" selection-start-column="159" selection-end-line="138" selection-end-column="159" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/modifyPwd.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/office.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/officeDetail.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/patientManage.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -244,7 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/java/dao/PatientDao.java" />
         <option value="$PROJECT_DIR$/src/java/servlet/admin/PatientManage.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/admin/patientManage.jsp" />
         <option value="$PROJECT_DIR$/src/java/bean/Apply.java" />
@@ -295,6 +225,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/doctorInfo.jsp" />
         <option value="$PROJECT_DIR$/src/java/util/DBUtil.java" />
         <option value="$PROJECT_DIR$/src/java/util/MyMail.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -342,39 +273,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
               <item name="hospital" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hospital" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hospital" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -389,7 +295,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547792292417" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../select_course" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -691,14 +597,24 @@
       <workItem from="1547697269753" duration="2650000" />
       <workItem from="1547727136855" duration="6567000" />
       <workItem from="1547788864025" duration="2694000" />
-      <workItem from="1557802162016" duration="996000" />
+      <workItem from="1557802162016" duration="2310000" />
+      <workItem from="1557821504497" duration="292000" />
+      <workItem from="1558248707449" duration="877000" />
     </task>
+    <task id="LOCAL-00001" summary="提交代码">
+      <created>1557803261871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557803261871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="404573000" />
+    <option name="totallyTimeSpent" value="407056000" />
   </component>
-  <component name="TodoView">
+  <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
     </todo-panel>
@@ -711,7 +627,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.17217484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.17537314" />
       <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.15458423" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -721,18 +637,18 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850778" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29175946" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34075725" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.32293987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850778" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.47104678" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.37152392" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.37082404" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.20601337" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32962137" />
       <window_info anchor="bottom" id="Application Servers" order="14" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -748,28 +664,12 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交代码" />
+    <MESSAGE value="完善系统" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善系统" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java/servlet/admin/RoomManage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
-          <caret line="55" column="57" selection-start-line="54" selection-start-column="16" selection-end-line="55" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/servlet/admin/ScheduleManage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-813">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/java/servlet/doctor/ApplyWork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/servlet/doctor/MyApply.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -988,20 +888,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/mysql-之前的版本.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5076">
-          <caret line="188" column="68" selection-start-line="188" selection-start-column="68" selection-end-line="188" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java/servlet/QueryNumSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -1037,13 +923,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/mysql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5049">
-          <caret line="187" selection-start-line="187" selection-end-line="187" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/admin/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -1064,13 +943,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3726">
           <caret line="138" column="159" selection-start-line="138" selection-start-column="159" selection-end-line="138" selection-end-column="159" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1100,11 +972,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/java/util/MyMail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
+        <state relative-caret-position="-313">
           <caret line="12" column="60" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/2.html" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/mysql-之前的版本.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4590">
+          <caret line="188" column="68" selection-start-line="188" selection-start-column="68" selection-end-line="188" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5049">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/confirmOrder.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="171">
+            <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
